@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Learner, Problem Solver, Developer !!</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakilahmed72" alt="mdshakilahmed72" /></a> </p>
+
 
 - 🌱 I’m currently learning **Phitron Courses**
 
@@ -13,8 +13,10 @@
 - 📄 2027 Goals [To become a Backend Engineer]
 
 - ⚡ 2027 Goals **To bring love of my life home**
+  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshakilahmed72&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakilahmed72" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakilahmed72" alt="mdshakilahmed72" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-shakil-ahmed-4113a81ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shakil-ahmed-4113a81ab" height="30" width="40" /></a>
