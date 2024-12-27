@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shakil Ahmed</h1>
-<h3 align="center">I'm a Learner, Problem Solver, Developer !!</h3>
 
-
-
-
-- 🌱 I’m currently learning **Phitron Courses**
-
-- 👯 2025 Goals **To become codeforces pupil and solve 1000+ problems**
-
-- 🤝 2026 Goals **To become codeforces specialist, learn web development and get a job**
-
-- 📄 2027 Goals [To become a Backend Engineer]
-
-- ⚡ 2027 Goals **To bring love of my life home**
-  
+ 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshakilahmed72&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakilahmed72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakilahmed72" alt="mdshakilahmed72" /></a> </p>
